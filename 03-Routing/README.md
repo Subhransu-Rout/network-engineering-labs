@@ -1,1 +1,1 @@
-This section covers different routing protocols including static and dynamic.
+This section covers different dynamic routing protocols.
